@@ -1,4 +1,4 @@
-import Index from "@views";
+import Index from "@views/index";
 import Carousel from "@views/carousel";
 import Slider from "@views/carousel-slider";
 export default (() => [

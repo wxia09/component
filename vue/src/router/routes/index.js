@@ -1,6 +1,6 @@
 import Index from "@views";
 import Carousel from "@views/carousel";
-import Slider from "@views/slider";
+import Slider from "@views/carousel-slider";
 export default (() => [
   {
     path: "/",

@@ -29,11 +29,11 @@ npm run lint
 npm run fix
 ```
 
-### 线上地址
+### 线上预览地址
 
-- [链接](http://junejulys.com/components)
+- [链接](http://vue.junejulys.com)
 
 ### vue组件
 
-- 录播图
-- slider
+- carousel
+- carousel-slider

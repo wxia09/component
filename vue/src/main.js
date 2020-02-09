@@ -22,6 +22,9 @@ router.beforeEach((to, from, next) => {
   }
 });
 
+import message from "./methods/message";
+
+Vue.use(message);
 new Vue({
   store,
   router,
